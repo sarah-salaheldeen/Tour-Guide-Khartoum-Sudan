@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/restaurants"
+            android:title="Restaurants"
+            android:icon="@drawable/ic_action_restaurants" />
+
+        <item android:id="@+id/markets"
+            android:title="Markets"
+            android:icon="@drawable/ic_store_mall_directory_black_24dp" />
+
+        <item android:id="@+id/attractions"
+            android:title="Attractions"
+            android:icon="@drawable/ic_action_attractions" />
+
+        <item android:id="@+id/hotels"
+            android:title="Hotels"
+            android:icon="@drawable/ic_hotel_black_24dp" />
+
+
+    </group>
+
+</menu>
